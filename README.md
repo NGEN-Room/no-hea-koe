@@ -8,7 +8,7 @@ Now in your pairs you should have cloned the 'no-hea-koe' repo ( in the NGEN-Roo
 These are the next steps
 
 # Pepeha
-- Create a new .tmd file in your command line ( if its not on your cheatsheet check the whiteboard )
+- Create a new .md file in your command line ( if its not on your cheatsheet check the whiteboard )
 - Name it "your-name" pepeha
 - open the file in "vs code"
 - Fill out a basic pepeha (who you are),  you can use the one you did with matua Gene
