@@ -18,7 +18,6 @@ Merging What is merging? did you find it the whole process difficult?
 
 Problem solving What is a problem solving method you used today? Did it help?
 
-Reflection Blog 1 Reflect on how things went for you last week
 
 How are you finding the programme?
 
