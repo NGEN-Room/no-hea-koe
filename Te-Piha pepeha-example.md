@@ -31,6 +31,12 @@ What is a problem solving method you used today?
 Did it help?
 
 
+NEW TOPIC HERE!!!! 
+Pulling
+What does pulling do?
+Why would you use pulling
+what is the command for PULL
+
 Reflection Blog 1
 Reflect on how things went for you last week
 
