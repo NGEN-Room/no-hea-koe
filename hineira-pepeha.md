@@ -1,6 +1,13 @@
 
 Ko Hineira toku ingoa
-
+Ko  Motatau te maunga
+Ko  Ramarama me Taikirau ngā awa
+Ko Ngatokimatawhaorua te waka
+Ko  Motatau te marae
+Ko  Manu Koroki  te whare
+Ko Ngāti Hine  te hapū
+Ko  Ngāpuhi te iwi
+Ko  Mataroria te Tupuna
 
 
 

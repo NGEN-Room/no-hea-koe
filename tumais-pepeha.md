@@ -1,5 +1,13 @@
 
 Ko Tumai toku ingoa
+Pēpeha: Ki te taha o tōku māmā
+Ko Tokerau te maunga
+Ko Taumarere te awa
+Ko Ngatokimatawhauruate waka
+Ko Miria te marae
+Ko Te rapunga te whare
+Ko Ngāti hine te hapū
+Ko Ngāpuhi  te iwi
 
 
 
