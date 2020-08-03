@@ -17,7 +17,7 @@ What is an example of a GOOD commit message
 Describe the three stages working, staging, committing
 
 Branching What is Branching/a branch?
-branching is mainly for achieving code isolation. You have atleast one branch. which can be enough for more sequential development, and is used for many tasks being committed to that same unique branch.
+branching is mainly for achieving code isolation. You have atleast one branch, which can be enough for more sequential development, and is used for many tasks being committed to that same unique branch.
 Why do we Branch?
 Branches allow people to make changes without disrupting things like bug fixes, new features, and versions integration. These changes could be merged later on after all the testing has been done.
 what is the command for creating a branch?
