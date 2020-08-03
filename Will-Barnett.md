@@ -1,4 +1,4 @@
-Ko Te piha tou ingoa
+Ko Will Barnett tou ingoa
 ko ngati hine toku hpau
 
 Technical Blog 1
