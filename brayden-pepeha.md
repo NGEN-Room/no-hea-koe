@@ -11,9 +11,9 @@ Ko Brayden Whautere ahau
 Technical Blog 1
 
 Commit What is a commit?
-
+its just telling you what you have done.
 What is an example of a GOOD commit message
-
+something short and straight to the point 
 Describe the three stages working, staging, committing
 
 Branching What is Branching/a branch?
